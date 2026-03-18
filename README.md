@@ -75,3 +75,10 @@ Missing Skills:
 Docker
 
 Kubernetes
+
+## ⚠️ Challenges
+
+- Handling different resume formats (PDF, text)
+- Extracting skills from unstructured data
+- Ensuring accurate matching results
+- Dealing with missing or incomplete information
